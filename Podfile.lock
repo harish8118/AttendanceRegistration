@@ -1,0 +1,16 @@
+PODS:
+  - RSDayFlow (1.6.0)
+
+DEPENDENCIES:
+  - RSDayFlow
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RSDayFlow
+
+SPEC CHECKSUMS:
+  RSDayFlow: 3ecebcead005812123076f6dd2b9ffdedf095aae
+
+PODFILE CHECKSUM: b9531bb264a8e43e1eb79bd7f7459e0998565f62
+
+COCOAPODS: 1.5.3
